@@ -84,7 +84,7 @@
 
 ## 👨‍💻 Pengembang
 
-Dikembangkan secara profesional oleh  
+Developed By
 **Claritiano Samosir**  
 Copyright © 2025
 
